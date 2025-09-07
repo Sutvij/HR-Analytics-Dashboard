@@ -3,6 +3,8 @@
 A dynamic, interactive Power BI dashboard designed to analyze employee demographics, attrition trends, job satisfaction, and workforce distribution across departments and roles.
 
 ![Power BI Dashboard](https://github.com/Sutvij/HR-Analytics-Dashboard/blob/main/Employee%20Attrition.pbix)
+
+
 ![HR Analytics Dashboard Screenshot](https://github.com/Sutvij/HR-Analytics-Dashboard/blob/main/Employee%20Attrition.png)  
 
 
